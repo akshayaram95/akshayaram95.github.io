@@ -24,7 +24,7 @@ var HTMLblog = '<li class="flex-item"><span class="orange-text">blog</span><span
 var HTMLlocation = '<li class="flex-item"><span class="orange-text">location</span><span class="white-text">%data%</span></li>';
 
 var HTMLheadWork='<li class="flex-item"><a href="#workExperience"><span class="white-text">%data%</span></a></li>';
-var HTMLheadProject='<li class="flex-item"><a href="#workExperience"><span class="white-text">%data%</span></a></li>';
+var HTMLheadProject='<li class="flex-item"><a href="#projects"><span class="white-text">%data%</span></a></li>';
 var HTMLheadEducation='<li class="flex-item"><a href="#education"><span class="white-text">%data%</span></a></li>';
 
 var HTMLbioPic = '<img src="%data%" class="biopic">';
